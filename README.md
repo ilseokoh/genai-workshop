@@ -34,4 +34,12 @@ LangChain Components
 
 ## prompt_text_classification.ipynb
 
+ - 분류 Prompt
  - Evaluation
+
+
+## chatbot_grocerybot_assistant.ipynb
+
+ - Agent
+ - Guadrail 
+ - RAG
